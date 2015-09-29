@@ -1,0 +1,27 @@
+NOTIFICATION TYPE|CHANNEL|LANGUAGE|SUBJECT|MESSAGE
+INCOMPLETE_PROFILE|WEB|EN|Incomplete Profile|Submit your [[fieldName]] so that family can find you. Go to https://m.refunite.org. <br /><br />Log in with [[recipientPhonenumber]]
+INCOMPLETE_PROFILE|SMS|EN||Reply to this SMS with [[fieldName]] so that family & friends can find you
+INCOMPLETE_PROFILE|USSD|EN||Submit your [[fieldName]] so that family can find you. Dial *[[ussdCode]][[customCode]]#
+UNREAD_MESSAGES|WEB|EN|Unread Messages|You have [[count]] unread messages [[from]]. <br /><br />Go to https://m.refunite.org. Log in with [[recipientPhonenumber]]
+UNREAD_MESSAGES|SMS|EN||You have [[count]] unread messages [[from]]. Reply x to this SMS to view your messages
+UNREAD_MESSAGES|USSD|EN||You have [[count]] unread messages [[from]].Go to https://m.refunite.org or dial *[[ussdCode]]*[[customCode]]#
+NEW_TOP_MATCHES|WEB|EN|New Top Matches|We may have found [[missingProfileName]]. <br /><br />Go to https://m.refunite.org. Log in with [[recipientPhonenumber]]
+NEW_TOP_MATCHES|SMS|EN||We may have found [[missingProfileName]]. Reply x to this SMS to view the profile
+NEW_TOP_MATCHES|USSD|EN||We may have found [[missingProfileName]]. <br /><br />Go to https://m.refunite.org. Dial *[[ussdCode]][[customCode]]#
+NEW_PEOPLE_LOOKING_FOR_YOU|WEB|EN|New People Looking for You|Do you know [[missingProfileOwnerName]]? We think he/she may be looking for you. <br /><br />Go tohttps://m.refunite.org. Log in with [[recipientPhonenumber]]
+NEW_PEOPLE_LOOKING_FOR_YOU|SMS|EN||Do you know [[missingProfileOwnerName]]? We think he/she may be looking for you. Reply x to this SMS to view the profile
+NEW_PEOPLE_LOOKING_FOR_YOU|USSD|EN||Do you know [[missingProfileOwnerName]]? We think he/she may be looking for you. Dial *[[ussdCode]][[customCode]]#
+NO_RECENT_LOGIN|WEB|EN|No Recent Login|Searching frequently on refugees united increases the chance of finding your family & friends. <br /><br />Go tohttps://m.refunite.org. Log in with [[recipientPhonenumber]]
+NO_RECENT_LOGIN|SMS|EN||Searching frequently on refugees united increases the chance of finding your family & friends. reply x to this SMS to start your search
+NO_RECENT_LOGIN|USSD|EN||Searching frequently on refugees united increases the chance of finding your family & friends. <br /><br />Dial *[[ussdCode]][[customCode]]#
+SEARCH_HISTORY_SUGGESTIONS|WEB|EN|Search History Suggestions|You may be looking for [[suggestions]]. <br /><br />Go tohttps://m.refunite.org. Log in with [[recipientPhonenumber]]
+SEARCH_HISTORY_SUGGESTIONS|SMS|EN||You may be looking for [[suggestions]]. Reply x to this SMS view the profile
+SEARCH_HISTORY_SUGGESTIONS|USSD|EN||You may be looking for [[suggestions]]. <br /><br />Dial *[[ussdCode]][[customCode]]#
+OV_SUMMARY_STATISTICS|WEB|EN|OV Summary Statistics|"Daily stats for [[ovName]]."\n"Registered [[registered]]|"\n"Verified [[verified]]|"\n"Complete profiles [[Complete]].'\n' Go to https://m.refunite.org. Log in with [[recipientPhonenumber]]"
+OV_SUMMARY_STATISTICS|USSD|EN||"Daily stats for [[ovName]].'"\n"Registered [[registered]]|"\n"Verified [[verified]]|"\n"Complete profiles [[Complete]]."\n" Dial *[[ussdCode]][[customCode]]#"
+USSD_INVITE_WEB_TO_USSD|WEB|EN|USSD Invite|Looking for lost family or friends? dial *[[ussdCode]]# to start your search. Best regards refunite
+USSD_INVITE_WEB_TO_USSD|USSD|EN||Looking for lost family or friends? dial *[[ussdCode]]# to start your search. Best regards refunite
+MUTUAL_SEARCH_SUGGESTIONS|WEB|EN|Mutual Search Suggestions|You may know [[suggestions]]. Go to https://m.refunite.org. Log in with [[recipientPhonenumber]]
+MUTUAL_SEARCH_SUGGESTIONS|USSD|EN||You may know [[suggestions]]. Dial *[[ussdCode]][[customCode]]#
+WITHOUT_MISSING_PROFILE|WEB|EN|Without Missing Profile|Are you looking for missing family & friends? Go tohttps://m.refunite.org. Log in with [[recipientPhonenumber]] and tell us who you are looking for so we can help you find each other
+WITHOUT_MISSING_PROFILE|USSD|EN||Are you looking for missing family & friends? Dial *[[ussdCode]][[customCode]]#. and tell us who you are looking for so we can help you find each other

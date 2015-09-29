@@ -1,0 +1,16 @@
+*.pyc
+.project
+.pydevproject
+*.log
+.idea/
+.Python/
+lib/python2.7/
+docs/
+include/
+man/
+tmp/
+build/
+dist/
+tests/
+debian/refunite-email-api/
+*.egg-info/
